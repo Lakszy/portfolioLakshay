@@ -23,7 +23,7 @@ const Portfolio = () => {
           <p className="py-6">Check Out some of my work here</p>
         </div>
 
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-8">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 ">
           <div className="rounded-lg bg-gray-800 shadow-xl transform hover:scale-105 hover:shadow-2xl transition-transform duration-300">
             <img
               src={port}
